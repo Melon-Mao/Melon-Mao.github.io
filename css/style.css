@@ -44,6 +44,6 @@ a {
 }
 
 img {
-	max-width: 32px;
-	height: auto;
+	width: 32px;
+	height: 32px;
 }
