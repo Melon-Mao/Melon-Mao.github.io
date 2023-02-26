@@ -20,9 +20,9 @@ body {
 }
 
 #container {
-	background: black;
+	background: #153243;
 	width: 400px;
-	color: white;
+	color: #000000;
 	padding: 15px;
 }
 
@@ -39,7 +39,7 @@ h2 {
 }
 
 a {
-	color: #66023c;
+	color: #b26e63;
 	text-decoration: none;
 }
 
