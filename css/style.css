@@ -44,5 +44,7 @@ a {
 }
 
 img {
-	border-radius: 5px;
+	width: 32px;
+	height: 32px;
+	
 }
