@@ -42,3 +42,7 @@ a {
 	color: #75c1f6;
 	text-decoration: none;
 }
+
+img {
+	border-radius: 5px;
+}
